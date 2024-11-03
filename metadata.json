@@ -1,0 +1,10 @@
+{
+  "name": "Money Loving Monkeys",
+  "symbol": "MLM",
+  "description": "Currency of the Money Loving Monkeys.",
+  "image": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/main/money_straight.png",
+  "extensions": {
+    "website": "moneylovingmonkeys.fun",
+    "twitter": "mlm_nft",
+  }
+}
