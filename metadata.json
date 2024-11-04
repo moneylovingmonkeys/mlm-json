@@ -2,7 +2,17 @@
   "name": "Money Loving Monkeys",
   "symbol": "MLM",
   "description": "Currency of the Money Loving Monkeys.",
-  "image": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/main/money_straight.png",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/refs/heads/main/money_straight.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/refs/heads/main/money_straight.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
   "extensions": {
     "website": "moneylovingmonkeys.fun",
     "twitter": "twitter.com/mlm_nft"
