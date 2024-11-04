@@ -1,20 +1,16 @@
 {
-  "name": "Money Loving Monkeys",
-  "symbol": "MLM",
-  "description": "Currency of the Money Loving Monkeys.",
-  "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/refs/heads/main/money_straight.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/moneylovingmonkeys/mlm-icon/refs/heads/main/money_straight.png",
-        "type": "image/png"
-      }
+    "name": "Money Loving Monkeys",
+    "symbol": "MLM",
+    "image": "https://gateway.irys.xyz/q76-PK2Bk8ZeizAenWonxqEomtzkcYnFKhhzeWSVl_U",
+    "description": "Currency of the Money Loving Monkeys",
+    "extensions": {
+        "website": "moneylovingmonkeys.fun",
+        "twitter": "mlm_nft"
+    },
+    "tags": [
     ],
-    "category": "image"
-  },
-  "extensions": {
-    "website": "moneylovingmonkeys.fun",
-    "twitter": "twitter.com/mlm_nft"
-  }
+    "creator": {
+        "name": "unknown",
+        "site": "moneylovingmonkeys.fun"
+    }
 }
